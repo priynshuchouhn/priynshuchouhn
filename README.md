@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Angular and Laravel<br><br>👨‍💻 All of my projects are available at [priynshuchouhn.github.io](http://priynshuchouhn.github.io)<br><br>💬 Ask me about Angular, Laravel<br><br>📫 How to reach me priynshuchouhn@icloud.com<br>
+🌱 I’m currently learning MEAN Stack<br><br>👨‍💻 All of my projects are available at [priynshuchouhn.github.io](http://priynshuchouhn.github.io)<br><br>💬 Ask me about Angular, Node.js, Express and MongoDb<br><br>📫 How to reach me priynshuchouhn@gmail.com<br>
 
 
 ## 🌐 Socials:
