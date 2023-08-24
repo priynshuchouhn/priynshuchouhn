@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Angular, Node.js, Express and MongoDb**
 
-- 📫 How to reach me **priynshuchouhn@gmail.com**
+- 📫 Contact me at **priynshuchouhn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
