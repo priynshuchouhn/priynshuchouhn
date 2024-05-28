@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/priynshuchouhn" target="blank"><img src="https://img.shields.io/twitter/follow/priynshuchouhn?logo=twitter&style=for-the-badge" alt="priynshuchouhn" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently acing **MERN stack & Next.js**
 
 - 👨‍💻 All of my projects are available at [https://priynshuchouhn.github.io](https://priynshuchouhn.github.io)
 
