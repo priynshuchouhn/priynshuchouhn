@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priynshuchouhn&show_icons=true&locale=en" alt="priynshuchouhn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priynshuchouhn&" alt="priynshuchouhn" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=priynshuchouhn" alt="priynshuchouhn" /></p>
