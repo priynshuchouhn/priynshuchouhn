@@ -1,38 +1,318 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Chouhan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priynshuchouhn&label=Profile%20views&color=0e75b6&style=flat" alt="priynshuchouhn" /> </p>
+# 👋 Hi, I'm Priyanshu Chouhan
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priynshuchouhn" alt="priynshuchouhn" /></a> </p>
+### Software Engineer · Full Stack Developer · Product Builder
 
-<p align="left"> <a href="https://twitter.com/priynshuchouhn" target="blank"><img src="https://img.shields.io/twitter/follow/priynshuchouhn?logo=twitter&style=for-the-badge" alt="priynshuchouhn" /></a> </p>
+I build **products, scalable systems, and infrastructure** — from idea to production.
 
-- 🌱 I’m currently acing **Java Spring Boot**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://priynshuchouhn.github.io](https://priynshuchouhn.github.io)
+<a href="https://priynshuchouhn.github.io">🌐 Portfolio</a>
+  •   <a href="https://www.linkedin.com/in/priynshuchouhn">💼 LinkedIn</a>
+  •   <a href="mailto:priynshuchouhn@gmail.com">📧 Email</a>
+  •   <a href="https://github.com/priynshuchouhn">💻 GitHub</a>
+  •   <a href="https://x.com/priynshuchouhn">𝕏 X</a>
 
-- 💬 Ask me about **React, Angular, Express and Databases**
+<br/><br/>
 
-- 📫 How to reach me **priynshuchouhn@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=priynshuchouhn&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/priynshuchouhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="priynshuchouhn" height="30" width="40" /></a>
-<a href="https://twitter.com/priynshuchouhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priynshuchouhn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/priynshuchouhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priynshuchouhn" height="30" width="40" /></a>
-<a href="https://fb.com/priynshuchouhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priynshuchouhn" height="30" width="40" /></a>
-<a href="https://instagram.com/priynshuchouhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priynshuchouhn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/priynshuchouhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="priynshuchouhn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/priynshuchouhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="priynshuchouhn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/priynshuchouhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priynshuchouhn" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/priynshuchouhn/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="priynshuchouhn/profile" height="30" width="40" /></a>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Engineer and Full Stack Developer** who enjoys turning ideas into real, production-ready products.
+
+I work across the stack — from **frontend applications and APIs to databases, backend architecture, distributed systems, cloud infrastructure, and automation**.
+
+I enjoy solving engineering problems by thinking about the complete system: **requirements, architecture, data flow, scalability, performance, reliability, and failure scenarios**.
+
+Most of my learning happens by building things. When a project gets more complex, I enjoy going deeper into the architecture and understanding why a particular design works, what trade-offs it introduces, and where it may eventually become a bottleneck.
+
+> **I like building things, but I enjoy understanding how they work even more.**
+
+---
+
+# 🚀 What I'm Building
+
+## 🎮 Glitch9
+
+I'm part of the **Glitch9 team**, working on a cloud gaming platform focused on delivering a smooth and accessible remote gaming experience.
+
+I contribute across the product and engineering stack, working on **backend services, application architecture, infrastructure, game streaming, and system design** required to build a reliable cloud-gaming platform.
+
+Working on Glitch9 has given me practical experience with **scalability, reliability, performance, service architecture, resource management, and real-world infrastructure challenges**.
+
+**Areas:** `Cloud Gaming` · `Backend Engineering` · `System Design` · `Infrastructure` · `Game Streaming` · `Distributed Systems`
+
+---
+
+## 🏆 Campus Rank
+
+**Campus Rank** is a competitive-programming platform that aggregates profiles from:
+
+**LeetCode · GeeksForGeeks · HackerRank**
+
+into one unified experience.
+
+The platform brings together coding statistics, rankings, leaderboards and progress tracking from multiple external platforms.
+
+I've worked on areas including:
+
+* Data aggregation
+* External platform integration
+* Database modeling
+* Authentication
+* Ranking and leaderboard logic
+* API design
+* Background data synchronization
+* Performance considerations
+* Handling inconsistent external data
+
+**Stack:** `Next.js` · `TypeScript` · `Node.js` · `PostgreSQL` · `Prisma` · `NextAuth` · `Cheerio`
+
+<a href="https://github.com/priynshuchouhn/campus-rank">View Repository →</a>
+
+---
+
+## ⚙️ ExecutionOS
+
+Working on **ExecutionOS**, a developer-focused platform involving execution environments, backend services and infrastructure.
+
+The project has been an opportunity to explore **service architecture, execution workflows, APIs, scalability and backend design** while thinking about how systems evolve as workloads and complexity increase.
+
+**Focus:** `Backend Architecture` · `Execution Systems` · `APIs` · `Infrastructure` · `Scalability`
+
+<a href="https://github.com/priynshuchouhn/executionos-fe">View Repository →</a>
+
+---
+
+## 🤖 AI & Automation
+
+I'm also experimenting with **AI-powered applications and automation**.
+
+My interest is not just integrating an LLM into an application, but understanding how AI fits into a real software system — including **APIs, data pipelines, asynchronous workflows, tool execution, state management, and reliability**.
+
+---
+
+# 🧰 Technology
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,ts,js,cpp,c,php,dart" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priynshuchouhn&show_icons=true&locale=en&layout=compact" alt="priynshuchouhn" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,flutter,tailwind,redux" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priynshuchouhn&show_icons=true&locale=en" alt="priynshuchouhn" /></p>
+### Backend
 
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=priynshuchouhn" alt="priynshuchouhn" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### Databases & Caching
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
+
+### Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,githubactions" />
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven" />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏆 Campus Rank
+
+Competitive programming profiles, statistics and leaderboards.
+
+**Next.js · TypeScript · PostgreSQL · Prisma**
+
+<a href="https://github.com/priynshuchouhn/campus-rank">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🎮 Glitch9 Moonlight
+
+Customized Moonlight client work for the Glitch9 cloud-gaming ecosystem.
+
+**Android · Kotlin/Java · Moonlight**
+
+<a href="https://github.com/priynshuchouhn/glitch9-moonlight-android">
+View Repository →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚙️ ExecutionOS
+
+Frontend for an execution-focused developer platform.
+
+**Next.js · TypeScript · React**
+
+<a href="https://github.com/priynshuchouhn/executionos-fe">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Interview Mocker
+
+AI-assisted interview preparation platform.
+
+**AI · Next.js · TypeScript**
+
+<a href="https://github.com/priynshuchouhn/ai-interview-mocker">
+View Repository →
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 Currently Learning
+
+I'm currently going deeper into **Java, Spring Boot, backend architecture, distributed systems, cloud infrastructure and AI-powered applications.**
+
+I'm particularly interested in understanding how systems behave as they grow:
+
+`System Design` · `Microservices` · `Distributed Systems` · `Concurrency` · `Caching` · `Database Optimization` · `Message Queues` · `High Availability` · `Fault Tolerance` · `Observability` · `Cloud Architecture`
+
+I prefer learning these concepts through **real projects and implementation** rather than studying them in isolation.
+
+---
+
+# 🧠 Engineering Interests
+
+I'm particularly interested in problems where **software meets infrastructure**.
+
+Things I enjoy working on:
+
+* Designing maintainable backend architectures
+* Breaking complex applications into meaningful services
+* Designing APIs and data flows
+* Understanding database bottlenecks
+* Improving application performance
+* Designing caching strategies
+* Handling asynchronous workloads
+* Building reliable distributed systems
+* Understanding concurrency and distributed workloads
+* Designing for failure and recovery
+* Optimizing resource utilization
+* Building systems that can scale horizontally
+* Finding bottlenecks through debugging and observability
+
+My approach is practical:
+
+**Start simple → understand the bottleneck → measure → evolve the architecture.**
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/priynshuchouhn">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priynshuchouhn&theme=github_dark" alt="GitHub Activity" width="100%" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/priynshuchouhn?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github" alt="Repositories" />
+</a>
+
+<a href="https://github.com/priynshuchouhn?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-My%20Work-181717?style=for-the-badge&logo=github" alt="Stars" />
+</a>
+
+</div>
+
+---
+
+# 💡 Beyond Code
+
+I'm curious about how things work.
+
+Sometimes that means designing a backend service.
+
+Sometimes it means optimizing a database.
+
+Sometimes it means debugging a difficult infrastructure problem.
+
+Sometimes it means understanding why a system behaves differently under load.
+
+And sometimes it means building an entirely new product just to find out whether an idea works.
+
+**Curiosity usually turns into a project.**
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in:
+
+* Interesting products
+* System design problems
+* Backend engineering
+* Distributed systems
+* Infrastructure
+* AI applications
+* Open-source projects
+* Startup ideas
+* Engineering collaborations
+
+If you're building something interesting, let's talk.
+
+<div align="center">
+
+<br/>
+
+<a href="https://priynshuchouhn.github.io">🌐 Website</a>
+  •   <a href="https://www.linkedin.com/in/priynshuchouhn">💼 LinkedIn</a>
+  •   <a href="mailto:priynshuchouhn@gmail.com">📧 Email</a>
+  •   <a href="https://x.com/priynshuchouhn">𝕏 X</a>
+
+<br/><br/><br/>
+
+### Build · Learn · Ship · Scale
+
+</div>
